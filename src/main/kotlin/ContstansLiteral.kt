@@ -7,6 +7,6 @@ fun main(args: Array<String>) {
     println("Contoh Literal Heksadesimal : " + valHeksa)
     val valBinary = 0b00001011 //Literal binary diawali dengan 0b
     println("Contoh Literal Binary : " + valBinary)
-    val notasiKonvensional = 123.5e10
+    val notasiKonvensional = 123.5e-3
     println("Contoh Literal Konvensional Floating Point Number : " + notasiKonvensional)
 }
