@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-println("Hello, Ini program pertama saya dikotlini!")
+    println("Hallo ini program pertama saya dikotlin!")
 }

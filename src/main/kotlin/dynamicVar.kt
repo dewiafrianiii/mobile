@@ -4,4 +4,5 @@ fun main(args: Array<String>) {
     var staticVar: Char = 'A'
     println("Contoh static variabel = " + staticVar)
 
+
 }
